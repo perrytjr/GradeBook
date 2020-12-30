@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/perrymelissa/gradebook/src/GradeBook/GradeBook.csproj": {}
+    "/Users/perrymelissa/Desktop/projects/pluralsight/GradeBook/gradebook/src/GradeBook/GradeBook.csproj": {}
   },
   "projects": {
-    "/Users/perrymelissa/gradebook/src/GradeBook/GradeBook.csproj": {
+    "/Users/perrymelissa/Desktop/projects/pluralsight/GradeBook/gradebook/src/GradeBook/GradeBook.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/perrymelissa/gradebook/src/GradeBook/GradeBook.csproj",
+        "projectUniqueName": "/Users/perrymelissa/Desktop/projects/pluralsight/GradeBook/gradebook/src/GradeBook/GradeBook.csproj",
         "projectName": "GradeBook",
-        "projectPath": "/Users/perrymelissa/gradebook/src/GradeBook/GradeBook.csproj",
+        "projectPath": "/Users/perrymelissa/Desktop/projects/pluralsight/GradeBook/gradebook/src/GradeBook/GradeBook.csproj",
         "packagesPath": "/Users/perrymelissa/.nuget/packages/",
-        "outputPath": "/Users/perrymelissa/gradebook/src/GradeBook/obj/",
+        "outputPath": "/Users/perrymelissa/Desktop/projects/pluralsight/GradeBook/gradebook/src/GradeBook/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/perrymelissa/.nuget/NuGet/NuGet.Config"

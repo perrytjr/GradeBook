@@ -11,7 +11,7 @@ This is a console application that is written in C#.
 
 
 ## How it functions
-A user can clone the repo and use the following command: dotnet run in the root folder via the console and the application will start. It will ask the user to input scores of grades in the console. Provided the grades from the user a average grade, highest grade, and lowest grade will be displayed to the console once the letter "q" is entered. Futhore more the application will write your input to the .txt file in the applications folder. 
+A user can clone the repo and use the following command: dotnet run in the root folder via the console and the application will start. It will ask the user to input scores of grades in the console. Provided the grades from the user a average grade, highest grade, lowest grade, and letter grade will be displayed to the console once the letter "q" is entered. Futhore more the application will write your input to the .txt file in the applications folder. 
 
 ## License:
 
